@@ -17,6 +17,7 @@
 		1E86DCA127F3C6E8003DCFA3 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E86DCA027F3C6E8003DCFA3 /* Video.swift */; };
 		1E86DCA327F3C761003DCFA3 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E86DCA227F3C761003DCFA3 /* Model.swift */; };
 		1E86DCA52805D1CD003DCFA3 /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E86DCA42805D1CD003DCFA3 /* ConstantsTemplate.swift */; };
+		1E86DCA728071311003DCFA3 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E86DCA628071311003DCFA3 /* Response.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		1E86DCA027F3C6E8003DCFA3 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		1E86DCA227F3C761003DCFA3 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		1E86DCA42805D1CD003DCFA3 /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
+		1E86DCA628071311003DCFA3 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				1E86DCA027F3C6E8003DCFA3 /* Video.swift */,
 				1E86DCA227F3C761003DCFA3 /* Model.swift */,
 				1E86DCA42805D1CD003DCFA3 /* ConstantsTemplate.swift */,
+				1E86DCA628071311003DCFA3 /* Response.swift */,
 			);
 			path = "video-app";
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E86DCA728071311003DCFA3 /* Response.swift in Sources */,
 				1E86DCA52805D1CD003DCFA3 /* ConstantsTemplate.swift in Sources */,
 				1E86DC8F27F3B851003DCFA3 /* ViewController.swift in Sources */,
 				1E86DC8B27F3B851003DCFA3 /* AppDelegate.swift in Sources */,
